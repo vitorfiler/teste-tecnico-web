@@ -1,1 +1,1 @@
-# teste-tecnico-web
+npm install --save --legacy-peer-deps
